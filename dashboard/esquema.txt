@@ -1,0 +1,8 @@
+/dashboard
+  ├── index.html
+  ├── styles.css
+  ├── script.js
+  ├── server.js (Node.js ou outro backend)
+  ├── db.js (conexão com o banco de dados)
+  └── /images
+      └── logo.png
